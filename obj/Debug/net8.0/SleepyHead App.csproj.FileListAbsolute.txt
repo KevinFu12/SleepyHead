@@ -1,0 +1,30 @@
+D:\BINUS FILES\SleepyHead App\bin\Debug\net8.0\appsettings.Development.json
+D:\BINUS FILES\SleepyHead App\bin\Debug\net8.0\appsettings.json
+D:\BINUS FILES\SleepyHead App\bin\Debug\net8.0\SleepyHead App.staticwebassets.runtime.json
+D:\BINUS FILES\SleepyHead App\bin\Debug\net8.0\SleepyHead App.exe
+D:\BINUS FILES\SleepyHead App\bin\Debug\net8.0\SleepyHead App.deps.json
+D:\BINUS FILES\SleepyHead App\bin\Debug\net8.0\SleepyHead App.runtimeconfig.json
+D:\BINUS FILES\SleepyHead App\bin\Debug\net8.0\SleepyHead App.dll
+D:\BINUS FILES\SleepyHead App\bin\Debug\net8.0\SleepyHead App.pdb
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\SleepyHead App.GeneratedMSBuildEditorConfig.editorconfig
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\SleepyHead App.AssemblyInfoInputs.cache
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\SleepyHead App.AssemblyInfo.cs
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\SleepyHead App.csproj.CoreCompileInputs.cache
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\SleepyHead App.MvcApplicationPartsAssemblyInfo.cache
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\SleepyHead App.RazorAssemblyInfo.cache
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\SleepyHead App.RazorAssemblyInfo.cs
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\staticwebassets.build.json
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\staticwebassets.development.json
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\staticwebassets\msbuild.SleepyHead App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\staticwebassets\msbuild.build.SleepyHead App.props
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SleepyHead App.props
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SleepyHead App.props
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\staticwebassets.pack.json
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\scopedcss\bundle\SleepyHead App.styles.css
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\scopedcss\projectbundle\SleepyHead App.bundle.scp.css
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\SleepyHead App.dll
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\refint\SleepyHead App.dll
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\SleepyHead App.pdb
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\SleepyHead App.genruntimeconfig.cache
+D:\BINUS FILES\SleepyHead App\obj\Debug\net8.0\ref\SleepyHead App.dll

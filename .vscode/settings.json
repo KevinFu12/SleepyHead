@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fc396ef8-9aef-48f2-ab7a-35f472142b5a/resourceGroups/SleepyHead_Team/providers/Microsoft.Web/sites/VisoriSleepyHead",
+    "appService.deploySubpath": "bin\\Debug\\net8.0"
+}
